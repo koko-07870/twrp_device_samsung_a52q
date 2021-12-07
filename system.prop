@@ -28,3 +28,6 @@ persist.sys.disable_rescue=true
 # AVB
 ro.boot.avb_version=1.0
 ro.boot.vbmeta.avb_version=1.0
+
+# FUSE passthrough
+persist.sys.fuse.passthrough.enable=true
